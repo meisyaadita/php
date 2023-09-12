@@ -1,17 +1,18 @@
 <?php
-	echo "___TIPE DATA BOOLEAN";
+	echo "___TIPE DATA BOOLEAN___";
 	echo "<br>";
 	$menang = true;
-	if ($menang == true) {
-		echo "Selamat Anda Menang!!";// code...
+	if ($menang == true){
+		echo "Selamat Anda Menang!!";
 	} else{
-		echo "Maaf Anda Kalah...";// code...
+		echo "Maaf Anda Kalah...";
 	}
 	echo "<br>";
-	$menang = true:
-	if (menang == false) {
-		echo "Selamat Anda Menang!!";// code...
+	$menang = true;
+	if ($menang == false){
+		echo "Selamat Anda Menang!!";
 	} else{
-		echo "Maaf Anda Kalah...";// code...
-	}// code...
+		echo "Maaf Anda Kalah...";
+	}
+	echo "<br><br>";
 ?>
